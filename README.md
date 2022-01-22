@@ -34,7 +34,7 @@
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8344ae3a-1d91-4a8d-8129-616ba82a6bab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T141758Z&X-Amz-Expires=86400&X-Amz-Signature=f1c748e028fc425ceec5d8e9913a38168a944326271ea0a0f3633e09502de967&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8344ae3a-1d91-4a8d-8129-616ba82a6bab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T135006Z&X-Amz-Expires=86400&X-Amz-Signature=98d1d0b168fba54ff531a1f26ae8703a2582ab7be25509320b581d5b87524427&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
@@ -72,7 +72,7 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44298f91-3264-433a-9faa-9b746d488e34/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142252Z&X-Amz-Expires=86400&X-Amz-Signature=7fdce5c65338f3a8fa46ceacfa9d7322dc41cf375576797f016c742917e08447&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44298f91-3264-433a-9faa-9b746d488e34/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T135046Z&X-Amz-Expires=86400&X-Amz-Signature=862b7ec7883c4f7e14412976a56b1090a87ccebf4943819f1cf1c7be265e3892&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
@@ -82,7 +82,7 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65d329f7-fbdb-4089-8f6c-79cbc00601dc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142332Z&X-Amz-Expires=86400&X-Amz-Signature=90f5a0a824f2f5d6ac95c562a9caf9e39a7510b093c49fd4c48445428b764085&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65d329f7-fbdb-4089-8f6c-79cbc00601dc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T135122Z&X-Amz-Expires=86400&X-Amz-Signature=eb8febe2569a8d35b9bc7c97726f21d3d4f4fa75e399b385866d33facf205489&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
@@ -146,33 +146,43 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 예측도 중요하지만 더 중요하게 본 것은, 대책을 세울 때 지역에서 어떤 변수가 중요한가 하는 것이다. 다양한 알고리즘에 다양한 변수 중요도를 제공을 해서 공통적으로 나오는 부분이 유용하지 않을까 싶어서 함께 제공하였다.
 
-<시연> (민감데이터가 포함되어있기 때문에 흐리게 캡쳐)
+<시연>
+
+- 홈화면
+
+![image-20220122225856681](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225856681.png)
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a63ee8b5-08f6-4aed-ae96-9e788be82725/20220108_235830.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142708Z&X-Amz-Expires=86400&X-Amz-Signature=02cae8b3a87750d445fd0e802dfeff58c0619e033117b6f64bbf36998e076666&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2220220108_235830.png%22&x-id=GetObject)
+- 범죄유형별 분석 페이지
+
+![image-20220122225958466](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225958466.png)
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe835ce3-62c7-40c6-b8ce-f83f8f95fae4/20220108_235904.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142722Z&X-Amz-Expires=86400&X-Amz-Signature=e5e19176a737bc26d3eb1389e043e355ff1c3e356e2690527d890b6ce5f68eed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2220220108_235904.png%22&x-id=GetObject)
+(정확한 수치는 마스킹하여 표시하였음.)
+
+![image-20220122230020921](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230020921.png)
 
 
 
-화면 상단 : 2019년 상, 하반기 범죄 증감 수치 
+- 영향요인분석 페이지
 
-도넛그래프 : 분야별 범죄 건수. 옆의 범례 항목을 클릭하여 확인하고 싶은 분야만 선택할 수 있음. 
+![image-20220122230154653](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230154653.png)
 
-우측 꺾은선 그래프 : 2019년 범죄별 신고건수 
-
-화면 하단 : 창원시 행정구역별 보이스피싱 건수
+![image-20220122230220660](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230220660.png)
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e6297e8-37f7-47ec-b7da-d141140b0ee6/20220109_000247.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142756Z&X-Amz-Expires=86400&X-Amz-Signature=d8d5a9457aca46ff8d42970a2f59f55c0ca1b9839e42c18889b070200de69ce4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%2220220109_000247.png%22&x-id=GetObject)
+- 인프라 분석 페이지
+
+![image-20220122230327718](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230327718.png)
 
 
 
-범죄 요인분석 페이지
+- 치안뉴스키워드분석 페이지
+
+![image-20220122230449880](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230449880.png)
 
 
 
@@ -180,7 +190,7 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/446af969-af2b-4471-9bab-2b331c887e04/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142824Z&X-Amz-Expires=86400&X-Amz-Signature=cb08d006d720b92daaed5a3989adb8439e5d416b279f9886de406ef45b0ad8c3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/446af969-af2b-4471-9bab-2b331c887e04/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T140526Z&X-Amz-Expires=86400&X-Amz-Signature=7747dd0cff6bfec8eeeef19918b7c9870d9465b6e681a0bdc199f3d1bc15e5bd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
@@ -210,7 +220,7 @@ ex) 절도가 일어났다 = 도난 당했다.
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4d9180d-37c9-4b64-a8b5-3bcd564e9077/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142852Z&X-Amz-Expires=86400&X-Amz-Signature=27e03ce462cbe8c03ce08a69860a9ac996e6df3321655920f6dcd8ef33d16fab&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4d9180d-37c9-4b64-a8b5-3bcd564e9077/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T140548Z&X-Amz-Expires=86400&X-Amz-Signature=2993e617bb99df84b386128afb675247ecc991331bb8a80f387909e536b210cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
