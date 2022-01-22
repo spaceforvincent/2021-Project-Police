@@ -150,39 +150,31 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 - 홈화면
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225856681.png" alt="image-20220122225856681" style="zoom: 200%;" />
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d54d1072-1db4-41f5-b364-8c7fc974d0ef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142302Z&X-Amz-Expires=86400&X-Amz-Signature=20f819b6c21b8d73a61bf2d504fdd73d030f840cb64be485820a7999f4a298d6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
 - 범죄유형별 분석 페이지
 
-![image-20220122225958466](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225958466.png)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/194b7570-b250-414e-a199-eec62bdcca2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142358Z&X-Amz-Expires=86400&X-Amz-Signature=24d1e44fad6cd68f1e35589796e2b8ad754b6eba5ea2a0211bd1fae2c6c64eba&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-
-
-(정확한 수치는 마스킹하여 표시하였음.)
-
-![image-20220122230020921](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230020921.png)
-
-
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7de82044-f6a7-4358-943e-b33603aff873/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142408Z&X-Amz-Expires=86400&X-Amz-Signature=e46e13feb83dbd9811a3fc61cbad206a919ff4481fbb149f9f0a5cb4e0f12e48&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 영향요인분석 페이지
 
-![image-20220122230154653](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230154653.png)
-
-![image-20220122230220660](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230220660.png)
 
 
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c69089e3-04ec-408d-999c-23e0a2948571/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142435Z&X-Amz-Expires=86400&X-Amz-Signature=85839f988d5e27948aa1eb648b7f57beb6e75fd919eee765f1ccfac762115872&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a047a5a3-9a0c-461f-b95b-143bec3dbf53/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142718Z&X-Amz-Expires=86400&X-Amz-Signature=cfb9134bb7fb972a24f6b6efb4cb241fe445334f6a7532dd27cc204fdea59cde&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 인프라 분석 페이지
 
-![image-20220122230327718](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230327718.png)
-
-
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/06220b24-1556-406f-bcf0-7122027e70bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142805Z&X-Amz-Expires=86400&X-Amz-Signature=b8c44ea55db9312b2b5fd23babfae32edb48293870cd42de4631b5c373f3a6a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 치안뉴스키워드분석 페이지
 
-![image-20220122230449880](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122230449880.png)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b25c3a0-2d13-474b-a938-8f53588fb902/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T142814Z&X-Amz-Expires=86400&X-Amz-Signature=998914d97eab53fc8847aade9eb9471114c1b9dd0b3c947969c2dcd411cbe6d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
