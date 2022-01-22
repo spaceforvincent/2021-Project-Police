@@ -120,7 +120,7 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 
 
-![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b98c3aa2-2fd8-46a7-a04d-ed988c0520bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220113%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220113T142544Z&X-Amz-Expires=86400&X-Amz-Signature=d72dd060aa2dda3e85b4aeec8a73bb46477e3f99c3eb32df9073152fcc4f37ad&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![img](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b98c3aa2-2fd8-46a7-a04d-ed988c0520bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220122%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220122T141348Z&X-Amz-Expires=86400&X-Amz-Signature=1c23c27471946ab25ae07695e89d5ada5855c45b6976370a468616f2e6cbbbe6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 
 
@@ -150,7 +150,7 @@ SK텔레콤 - 유동인구 데이터(독립변수 활용, 치안정책 연구소
 
 - 홈화면
 
-![image-20220122225856681](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225856681.png)
+<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220122225856681.png" alt="image-20220122225856681" style="zoom: 200%;" />
 
 
 
